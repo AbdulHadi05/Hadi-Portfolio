@@ -152,6 +152,25 @@ export const DATA = {
       image: "",
       video: "./Lumina.mp4",
     },
+
+    {
+      title: "bnhaus Architectural Website",
+      href: "https://www.bnhaus.com/",
+      dates: "June 2025 - July 2025",
+      active: true,
+      description:
+        "Developed a modern and responsive architectural portfolio website showcasing projects with a clean, minimal design. Built with a focus on usability, performance, and visually engaging presentation of architectural work.",
+      technologies: ["Next.js", "TypeScript" , "Tailwind CSS"],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.bnhaus.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "./bnhaus.mp4",
+    },
     
   ],
 } as const;
