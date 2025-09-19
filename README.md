@@ -10,7 +10,7 @@
 
 A **modern, responsive personal portfolio** built with **Next.js** and **Tailwind CSS**. This website showcases my **projects, skills, and professional links** through a clean and minimal UI. It's designed to create a strong online presence with high performance and seamless responsiveness across all devices.
 
-🔗 [Live Portfolio](https://shaheer-portfolio-omega.vercel.app)
+🔗 [Live Portfolio](https://hadi-portfolio-kappa.vercel.app/)
 
 ---
 
@@ -39,12 +39,12 @@ A **modern, responsive personal portfolio** built with **Next.js** and **Tailwin
 ---
 
 ## 👨‍💻 Author
-**Muhammad Shaheer Malik**  
-- 🌐 [Portfolio](https://shaheer-portfolio-omega.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/malik-shaheer03)  
-- 🐙 [GitHub](https://github.com/malik-shaheer03)  
-- 📸 [Instagram](https://instagram.com/malik_shaheer03)  
-- 📧 [Email Me](mailto:shaheermalik03@gmail.com)  
+**Muhammad Hadi**  
+- 🌐 [Portfolio](https://hadi-portfolio-kappa.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hadi-71b5ab235/)  
+- 🐙 [GitHub](https://github.com/AbdulHadi05)  
+- 📸 [Instagram](https://instagram.com/hadiulfaisal)  
+- 📧 [Email Me](mailto:hadiulfaisal@gmail.com)  
 
 ---
 
