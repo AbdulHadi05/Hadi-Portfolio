@@ -172,5 +172,23 @@ export const DATA = {
       video: "./bnhaus.mp4",
     },
     
+    {
+      title: "Micro Feedback System",
+      href: "https://eco-track-dkww.vercel.app/",
+      dates: "September 2025",
+      active: true,
+      description:
+        "Micro Feedback System is a modern, full-stack feedback collection and analytics platform built with Next.js 14 and Firebase. It enables organizations to create custom feedback forms, collect responses in real-time, and gain actionable insights through comprehensive analytics dashboards.",
+      technologies: ["Next.js", "TypeScript" , "Tailwind CSS", "Firebase"],
+      links: [
+        {
+          type: "Website",
+          href: "https://eco-track-dkww.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "./microfeedback.mp4",
+    },
   ],
 } as const;
